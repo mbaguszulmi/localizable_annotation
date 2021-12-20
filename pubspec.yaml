@@ -1,6 +1,6 @@
 name: localizable_annotation
 description: An annotation for localizable, so Localization can be created automatically.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/mbaguszulmi/localizable_annotation
 homepage: https://github.com/mbaguszulmi/localizable_annotation
 

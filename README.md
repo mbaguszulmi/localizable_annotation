@@ -9,7 +9,7 @@ Add localizable_annotation as dependency on your project
 
 ```
 dependencies:
-  localization_annotation: ^0.0.2
+  localization_annotation: ^0.0.3
 ```
 
 Then you can now annotate your Translation class like this
