@@ -1,7 +1,7 @@
 # localizable_annotation
 
 An annotation for localizable, so Localization can be created automatically.
-Required by [localizable](https://github.com) package.
+Required by [localizable](https://pub.dev/packages/localizable) package.
 
 ## Getting Started
 
