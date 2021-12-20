@@ -22,8 +22,8 @@ class AppTranslations {
       'greetings': 'Hello {name}!',
     },
     'id': {
-      'title': 'Flutter 实例',
-      'description': '一个 Flutter 实例',
+      'title': 'Flutter Demo',
+      'description': 'Sebuah Flutter Demo',
       'greetings': 'Halo {name}!',
     },
   };

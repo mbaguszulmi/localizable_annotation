@@ -1,7 +1,7 @@
 # localizable_annotation
 
 An annotation for localizable, so Localization can be created automatically.
-Required by [localizable](https://github.com) package
+Required by [localizable](https://github.com) package.
 
 ## Getting Started
 
@@ -28,8 +28,8 @@ class AppTranslations {
       'greetings': 'Hello {name}!',
     },
     'id': {
-      'title': 'Flutter 实例',
-      'description': '一个 Flutter 实例',
+      'title': 'Flutter Demo',
+      'description': 'Sebuah Flutter Demo',
       'greetings': 'Halo {name}!',
     },
   };
